@@ -7,7 +7,6 @@ This repository contains course materials, examples, and student contributions.
 - Do not edit main directly
 - Use forks and pull requests
 
-## Why GitHub?
-GitHub keeps a complete history of changes so nothing is ever lost.
+## Open Data Sets
 
-ARE YOU HAVING FUN YET?
+Sources for open data set search platforms. There are many linked at the following website: https://guides.library.msstate.edu/c.php?g=1023952&p=7417324 

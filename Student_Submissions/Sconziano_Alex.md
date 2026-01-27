@@ -1,24 +1,33 @@
-# About Me (You)
+# About Me (Alexander Sconziano)
 
 ## Name:
-My name is Michael. But I like to go by just Michael.
+My name is Alexander Sconziano. But I like to go by Alex.
 
 ## Major/Minors:
+
+<List out your majors and minors>
 - Finance Major
 - Data Science Minor
-
 
 ## Favorite Food:
 
 What is your favorite food?
-Chicken Parm 
+
+- Cheeseburger
+
 What is your favorite cuisine?
-Italian 
+
+- Italian
+
 ## Hobbies:
-Football, Gym, Lacrosse
+
+- Basketball
+- Movies
 
 ## What you want to do when you graduate?
-Sales and Trading for stocks 
+
+- Equity research
 
 ## What's your favorite vacation spot?
-Miami Florida
+
+- Cape Cod
