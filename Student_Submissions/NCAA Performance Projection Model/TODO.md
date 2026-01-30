@@ -7,16 +7,16 @@
 ###Current Focus: Optimization & Ingestion
 
 ####Live Site Web Hooks: 
-[ ] Inspect network traffic to identify internal API endpoints/web hooks for live results to bypass full HTML parsing.
+[x] Inspect network traffic to identify internal API endpoints/web hooks for live results to bypass full HTML parsing.
 
 ####Main Site Web Hooks: 
-[ ] Identify hidden API calls for the main static site to improve scraping speed and reliability.
+[x] Identify hidden API calls for the main static site to improve scraping speed and reliability.
 
 ####Payload Analysis: 
-[ ] Reverse engineer the JSON structure returned by the web hooks to map relevant fields (athlete ID, time, event).
+[x] Reverse engineer the JSON structure returned by the web hooks to map relevant fields (athlete ID, time, event).
 
 ####Script Implementation: 
-[ ] Update scraper to utilize these endpoints instead of DOM traversal.
+[x] Update scraper to utilize these endpoints instead of DOM traversal.
 
 ####Execution: 
 [ ] Run batch scraping for target high school athletes.
