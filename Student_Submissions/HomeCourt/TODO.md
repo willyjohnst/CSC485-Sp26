@@ -55,3 +55,6 @@ NEXT WEEK (2/2)
      - attendance brackets
      - clearer column showing if home team won or not (0/1 maybe)
 - can we break up the data by season so it's not so long
+
+
+- fix LA Clippers and Lakers
