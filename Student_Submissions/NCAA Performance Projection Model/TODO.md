@@ -4,22 +4,24 @@
 [x] Scrape college athlete race results (TFRRS)
 
 ##Phase 2: Data Collection - High School (Athletic.net)
-###Current Focus: Optimization & Ingestion
+[ ] Current Focus: Optimization & Ingestion
 
-####Live Site Web Hooks: 
-[x] Inspect network traffic to identify internal API endpoints/web hooks for live results to bypass full HTML parsing.
+###Sub goals:
 
-####Main Site Web Hooks: 
-[x] Identify hidden API calls for the main static site to improve scraping speed and reliability.
+[x] Find webhook to index meet searches from
+[ ] Create script to gather list of meet links
+[ ] Create script to download formatted race results from a given meet
+[ ] Adapt pSQL schema to include athlete age
+[ ] Figure out if I NEED age, or if I can get by with just race times?
+[ ] Can do Race dates + if on HS team, no team (gap year), then college team (in college now)
 
-####Payload Analysis: 
-[x] Reverse engineer the JSON structure returned by the web hooks to map relevant fields (athlete ID, time, event).
+####Download race results sub goals:
 
-####Script Implementation: 
-[x] Update scraper to utilize these endpoints instead of DOM traversal.
+[ ] Get meet information: Date, name, location, age group
+[ ] Find sub hooks for each race
+[ ] Find html format for races (get distance and heat) find html column positions for: athlete name, time, position, age/date
+[ ] Make sure that I have the date for the races correct, if athlete age is not possible (So I can do time series using the start of college as an anchor?)
 
-####Execution: 
-[ ] Run batch scraping for target high school athletes.
 
 ####Normalization: 
 [ ] Standardize event names and distances to match the college dataset.
